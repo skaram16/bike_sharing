@@ -20,7 +20,7 @@ In the above image we can see that more than 3/4 of the users are **Subscribers*
 ***
 ![NYC CitiBike Top Trip Starting Locations](https://github.com/skaram16/bike_sharing/blob/main/Images/start_location.png)
 
-The above map displays the bike stations from which recorded bike trips started. The size of the circles and darkness of the green indicate the relative number of trips started at those locations. It is apparent that the bulk of the bike trips are originating in the bustling **commercial heart** of Lower Manhattan, known for towering office buildings, densely packed residential skyscrapers, and entertainment venues. Bike usage is lower in the less densely packed surrounding neighborhoods. 
+The above map displays the bike stations from which recorded bike trips started. The size of the circles and darkness of the purple indicate the relative number of trips started at those locations. It is apparent that the bulk of the bike trips are originating in the bustling **commercial heart** of Lower Manhattan, known for towering office buildings, densely packed residential skyscrapers, and entertainment venues. Bike usage is lower in the less densely packed surrounding neighborhoods. 
 ***
 ![NYC CitiBike Total Rides by Time of Day](https://github.com/skaram16/bike_sharing/blob/main/Images/optimal_repair_time.png)
 
