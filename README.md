@@ -61,3 +61,5 @@ In conclusion, bikeshare services are remarkably popular in busy metropolitan ar
 If I were to pursue additional lines of inquiry for analysis and visualization, given the data provided, I would explore:
 - trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours;
 - average trip duration, by birth year, by gender, to explore if there was any difference in male or female or un-gendered riders as they age.
+
+I would also like to look into the users who had a subscription vs. ones that did not. Does the subscription play a role in giving the user benefits in picking that service in the long run, or are the users just doing it as a last minute choice?
